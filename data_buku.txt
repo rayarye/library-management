@@ -1,0 +1,4 @@
+Judul buku: Naruto
+Tahun terbit: 1998
+Genre: anime
+Penulis: masashi kishimoto

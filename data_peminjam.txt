@@ -1,0 +1,89 @@
+
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: afmi
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: fwfsg
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: fwec
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: efw
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: efn
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: fsr
+No.Hp: ger
+Alamat: gvr
+Judul buku: wfs
+Nama: sfig
+No.Hp: hft
+Alamat: hf
+Judul buku: fhn
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 0
+Alamat: 
+Judul buku: 
+Nama: 
+No.Hp: 
+Alamat: 
+Judul buku: 
+Nama: dwef
+No.Hp: sgv
+Alamat: svsr
+Judul buku: srg
+Nama: wfs
+No.Hp: sgvr
+Alamat: 
+Judul buku: sgcd "d:\UASPEMDASCPP\" ; if ($?) { g++ project.cpp -o project } ; if ($?) { .\project }
+Nama: 
+No.Hp: rw
+Alamat: wf
+Judul buku: sg
+Nama: bfb 
+No.Hp: 1308380808080808
+Alamat: kiooko
+Judul buku: buku jiji
+Nama: raya ahmad
+No.Hp: 0881026639700
+Alamat: sidoarjo
+Judul buku: naruto batuk
